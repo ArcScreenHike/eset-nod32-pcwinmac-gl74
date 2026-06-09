@@ -1,4 +1,4 @@
-# 
+# 免费 ESET NOD32 脚本 Mac OS版 | 新 ESET NOD32 脚本 PC Windows版。集成 跨平台同步 和 种子下载支持，跨平台性能最大化。
 
 
 
